@@ -1183,9 +1183,9 @@
   <catalogs>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы</catalogs>
   <catalogs>Catalog.ДополнительныеОтчетыИОбработки</catalogs>
   <catalogs>Catalog.ЕдиницыИзмерения</catalogs>
-  <catalogs>Catalog.ЗаказПокупателяПрисоединенныеФайлы</catalogs>
   <catalogs>Catalog.ЗначенияСвойствОбъектов</catalogs>
   <catalogs>Catalog.ЗначенияСвойствОбъектовИерархия</catalogs>
+  <catalogs>Catalog.ЗаказПокупателяПрисоединенныеФайлы</catalogs>
   <catalogs>Catalog.ИдентификаторыОбъектовМетаданных</catalogs>
   <catalogs>Catalog.ИдентификаторыОбъектовРасширений</catalogs>
   <catalogs>Catalog.КлючевыеОперации</catalogs>
@@ -1216,11 +1216,13 @@
   <catalogs>Catalog.Файлы</catalogs>
   <catalogs>Catalog.Расш1_КонтактныеЛица</catalogs>
   <catalogs>Catalog.Расш1_Должности</catalogs>
+  <catalogs>Catalog.Расш1_ДоставкаПрисоединенныеФайлы</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
   <documents>Document.ПоступлениеТоваровУслуг</documents>
   <documents>Document.РеализацияТоваровУслуг</documents>
+  <documents>Document.Расш1_Доставка</documents>
   <documentJournals>DocumentJournal.Деньги</documentJournals>
   <enums>Enum.ВариантыОтображенияМеток</enums>
   <enums>Enum.ВариантыОчисткиФайлов</enums>
